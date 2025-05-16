@@ -29,7 +29,7 @@
 
 | 이름 | 설명 |
 |------|------|
-| 📘[sql-study](https://github.com/wjpark4430/sql-study) | SQLD 오답노트 & 개념 정리 리포 (SQL 실습 포함) |
+| 📘[sql-study](https://github.com/wjpark4430/sqld-study) | SQLD 오답노트 & 개념 정리 리포 (SQL 실습 포함) |
 | 📦[infra-log](https://github.com/wjpark4430/infra-log) | Docker, 배포 자동화, Nginx 설정 등 기록 |
 | 📊[data-track](https://github.com/wjpark4430/data-track) | 데이터 관련 개념/ETL 학습/실습 정리 예정 |
 
