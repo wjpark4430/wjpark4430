@@ -1,5 +1,5 @@
 # 👋 Hello, I'm 박우진!  
-> Java 기반 웹 개발 경험을 바탕으로 데이터 엔지니어/데이터 관리자로 커리어를 확장 중입니다.
+> Java 기반 웹 개발 경험을 바탕으로 데이터 엔지니어로 커리어를 확장 중입니다.
 
 ---
 
@@ -29,9 +29,9 @@
 
 | 이름 | 설명 |
 |------|------|
+| 💻[tripleseven](https://github.com/nhnacademy-be8-TripleSeven)| 클라우드 기반 Spring Boot 웹 도서 쇼핑몰 서비스 |
 | 📘[sql-study](https://github.com/wjpark4430/sqld-study) | SQLD 오답노트 & 개념 정리 리포 (SQL 실습 포함) |
-| 📦[infra-log](https://github.com/wjpark4430/infra-log) | Docker, 배포 자동화, Nginx 설정 등 기록 |
-| 📊[data-track](https://github.com/wjpark4430/data-track) | 데이터 관련 개념/ETL 학습/실습 정리 예정 |
+| 📊[data-track](!) | 데이터 관련 개념/ETL 학습/실습 정리 예정 |
 
 ---
 
@@ -52,5 +52,5 @@
 
 ---
 
-> 꾸준히 기록하고 성장하는 데이터 엔지니어/관리자가 되기 위해 매일 학습 중입니다.  
-> 포트폴리오 및 공부 기록은 지속적으로 업데이트될 예정입니다. 😊
+> 꾸준히 기록하고 성장하는 데이터 엔지니어가 되기 위해 매일 학습 중입니다.  
+> 포트폴리오 및 공부 기록은 지속적으로 업데이트될 예정입니다.
