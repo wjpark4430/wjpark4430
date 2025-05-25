@@ -44,12 +44,6 @@
 
 ---
 
-## 📝 Blog Posts (Velog)
-
-- 추가 예정
-
----
-
 ## 🙋 Contact
 
 - 📧 Email: pwj4na2@naver.com
