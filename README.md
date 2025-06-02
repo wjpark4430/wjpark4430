@@ -29,7 +29,7 @@
 
 | 이름 | 설명 |
 |------|------|
-| 💻[tripleseven](https://github.com/nhnacademy-be8-TripleSeven)| 클라우드 기반 Spring Boot 웹 도서 쇼핑몰 서비스 |
+| 💻[tripleseven](https://github.com/wjpark4430/tripleseven/blob/main/README.md)| 클라우드 기반 Spring Boot 웹 도서 쇼핑몰 서비스 |
 | 📘[sql-study](https://github.com/wjpark4430/sqld-study) | SQLD 오답노트 & 개념 정리 리포 (SQL 실습 포함) |
 | 📊[data-track](!) | 데이터 관련 개념/ETL 학습/실습 정리 예정 |
 
