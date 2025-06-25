@@ -1,5 +1,6 @@
 # 👋 Hello, I'm 박우진!  
-> Java 기반 웹 개발 경험을 바탕으로 데이터 엔지니어로 커리어를 확장 중입니다.
+> 데이터를 다루는 모든 과정에 관심이 많은 백엔드 지향 데이터 엔지니어입니다.
+> Java & Spring 기반 프로젝트와 Python 기반 자동화 시스템을 직접 설계·운영한 경험이 있습니다.
 
 ---
 
@@ -24,13 +25,40 @@
 
 ---
 
+## 📦 Main Projects
+
+### 📚 Book Ranker ETL (2025)
+
+> 도서 베스트셀러 크롤링부터 DB 저장, 시각화까지의 ETL 파이프라인 구현 프로젝트
+>
+> * Selenium & BeautifulSoup 기반 크롤링 자동화
+> * MySQL 저장 및 중복 방지, 오류 재시도 설계
+> * Windows 스케줄러 기반 자동 실행 및 로그 관리
+
+### 💻 웹 도서 쇼핑몰 (2025, 팀 프로젝트)
+
+> Spring 기반 도서 쇼핑몰 API 서버 개발
+>
+> * Docker, Nginx 기반 배포 자동화
+> * RabbitMQ 활용 이벤트 처리, 트랜잭션 전파 적용
+
+### 📝 MyBlog API (2025, 개인 프로젝트)
+
+> JWT 기반 블로그 API 개발 및 GCP 서버에 배포
+>
+> * Java, Spring Boot, MySQL, Redis
+> * GitHub Actions를 활용한 CI/CD 구성
+
+---
+
 ## 📂 Repositories
 
 | 이름 | 설명 |
 |------|------|
 | 💻[tripleseven](https://github.com/wjpark4430/tripleseven/blob/main/README.md)| 클라우드 기반 Spring Boot 웹 도서 쇼핑몰 서비스 |
-| 📘[sql-study](https://github.com/wjpark4430/sqld-study) | SQLD 오답노트 & 개념 정리 리포 |
 | 📊[book-ranker-etl](https://github.com/wjpark4430/book-ranker-etl) | Yes24를 통한 ETL 미니 프로젝트 |
+| 📝[MyBlog](https://github.com/wjpark4430/myblog) | MyBlog 미니 프로젝트 |
+| 📘[sql-study](https://github.com/wjpark4430/sqld-study) | SQLD 오답노트 & 개념 정리 리포 |
 
 ---
 
@@ -47,8 +75,3 @@
 - 📧 Email: pwj4na2@naver.com
 - 📌 Velog: [velog.io/@wjpark4430](https://velog.io/@wjpark4430)
 - 🗂️ GitHub: [github.com/wjpark4430](https://github.com/wjpark4430)
-
----
-
-> 꾸준히 기록하고 성장하는 데이터 엔지니어가 되기 위해 매일 학습 중입니다.  
-> 포트폴리오 및 공부 기록은 지속적으로 업데이트될 예정입니다.
